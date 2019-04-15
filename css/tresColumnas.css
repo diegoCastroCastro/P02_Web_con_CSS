@@ -1,0 +1,59 @@
+#contenedor {
+    margin: 10px 10px 10px 10px ;
+    padding: 5px;
+    width: 700px;
+    border-style: groove;
+    background-color: gray ;
+  }
+
+
+#menu {
+  float: left;
+  width: 19%;
+  border-radius: 5px;
+  background-color: aquamarine;
+}
+
+#cabecera {
+    float: center;
+    border-style: groove;
+    background-color: red;
+}
+
+#contenido {
+  float: right;
+  width: 80%;
+  border-style: groove;
+  background-image: url(../images/fondoAbout.jpg);
+    background-repeat: repeat;
+    background-position: center;
+}
+
+#contenidoPrincipal {
+    float: left;
+    width: 79%;
+      
+}
+
+
+#contenidoSecundario {
+    float: right;
+    width: 20%;
+    border-style: groove;
+    background-color: #39FC71;
+  }
+
+  body{
+
+    margin: 5px 10px 5px 10px ;
+
+    /*background-image: url("about.jpg");
+    background-repeat: no-repeat;
+    background-position: center;*/
+}
+
+#pie {
+  clear: both;
+  border-style: groove;
+  background-color: blanchedalmond;
+}
