@@ -15,7 +15,6 @@
 }
 
 #cabecera {
-    float: center;
     border-style: groove;
     background-color: red;
 }
@@ -35,15 +34,13 @@
       
 }
 
-
 #contenidoSecundario {
     float: right;
     width: 20%;
     border-style: groove;
     background-image: url(../images/fondoRS.png);
     background-position: center;
-    
-  }
+}
 
   body{
 
