@@ -40,7 +40,9 @@
     float: right;
     width: 20%;
     border-style: groove;
-    background-color: #39FC71;
+    background-image: url(../images/fondoRS.png);
+    background-position: center;
+    
   }
 
   body{
