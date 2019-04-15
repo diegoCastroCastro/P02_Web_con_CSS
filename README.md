@@ -19,7 +19,7 @@ paginas creadas en la Practica01.
   <li> Se modifico a 3 columas esta pagina</li>
   </ul>
   
-  <h1Creacion de la pagina Contacto</h1>
+  <h1>Creacion de la pagina Contacto</h1>
 
 <ul>
   <li> Implementacion de CSS3 con el nombre de formulario.css</li>
